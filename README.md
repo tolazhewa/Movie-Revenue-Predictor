@@ -1,2 +1,1 @@
 # CPS840_A1_Linear_Regression
-# CPS840_A1_Linear_Regression
